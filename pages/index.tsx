@@ -52,7 +52,7 @@ export default function Home() {
           height="3.125rem"
           backgroundColor="gray.800"
           focusBorderColor="purple.500"
-          placeholder="Senha"
+          placeholder="Password"
           marginTop={2}
           type="password"
         />
